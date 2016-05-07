@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="16" pc="268435458" symbol="onResponse"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="17" pc="268435469" symbol="onResponse"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="18" pc="268435541" symbol="onResponse"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="19" pc="268435557" symbol="onResponse"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="22" pc="268435563" symbol="onResponse"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="23" pc="268435591" symbol="onResponse"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="35" pc="268435598" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="36" pc="268435645" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="38" pc="268435663" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="39" pc="268435680" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="41" pc="268435730" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="42" pc="268435757" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="43" pc="268435781" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="45" pc="268435805" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="46" pc="268435852" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="48" pc="268435870" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="49" pc="268435902" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="50" pc="268435922" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="52" pc="268435949" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="53" pc="268435969" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="55" pc="268436000" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="56" pc="268436016" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="59" pc="268436022" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="60" pc="268436049" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="61" pc="268436085" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="62" pc="268436137" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="63" pc="268436153" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="66" pc="268436159" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="67" pc="268436159" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="68" pc="268436186" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="69" pc="268436222" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="70" pc="268436274" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="72" pc="268436280" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="90" pc="268436287" symbol="timercallback"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="91" pc="268436309" symbol="timercallback"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="96" pc="268436328" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="97" pc="268436362" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="107" pc="268436409" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="123" pc="268436435" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="124" pc="268436471" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="127" pc="268436483" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="128" pc="268436500" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="130" pc="268436550" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="131" pc="268436593" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="132" pc="268436643" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="135" pc="268436693" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="136" pc="268436729" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="137" pc="268436767" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="140" pc="268436821" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="143" pc="268436837" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="145" pc="268436850" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="148" pc="268436958" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="149" pc="268436994" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="150" pc="268437029" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="153" pc="268437045" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="155" pc="268437058" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="157" pc="268437130" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="158" pc="268437160" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="161" pc="268437248" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="163" pc="268437333" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="165" pc="268437405" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="166" pc="268437440" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="169" pc="268437456" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="171" pc="268437469" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="173" pc="268437535" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="174" pc="268437560" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="176" pc="268437570" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="178" pc="268437577" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="179" pc="268437613" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="180" pc="268437666" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="182" pc="268437679" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="183" pc="268437715" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="184" pc="268437768" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="186" pc="268437781" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="187" pc="268437817" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="188" pc="268437870" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="190" pc="268437883" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="191" pc="268437919" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="192" pc="268437972" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="194" pc="268437985" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="195" pc="268438021" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="198" pc="268438080" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="199" pc="268438116" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="200" pc="268438179" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="202" pc="268438230" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="204" pc="268438236" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="206" pc="268438273" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="207" pc="268438309" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="208" pc="268438395" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="209" pc="268438431" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="211" pc="268438517" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="212" pc="268438534" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonView.mc" lineNum="213" pc="268438639" symbol="drawPrepare"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="18" pc="268438730" symbol="onStart"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="19" pc="268438748" symbol="onStart"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="20" pc="268438755" symbol="onStart"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="25" pc="268438780" symbol="onStart"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="26" pc="268438824" symbol="onStart"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="33" pc="268438910" symbol="onStop"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="38" pc="268438957" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="39" pc="268438981" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriathlonApp.mc" lineNum="40" pc="268439005" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="26" pc="268439039" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="28" pc="268439050" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="29" pc="268439079" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="30" pc="268439108" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="31" pc="268439137" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="32" pc="268439166" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="35" pc="268439198" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="37" pc="268439209" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="38" pc="268439238" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="39" pc="268439267" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="40" pc="268439296" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="41" pc="268439325" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="44" pc="268439357" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="46" pc="268439368" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="47" pc="268439397" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="48" pc="268439426" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="49" pc="268439455" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="50" pc="268439484" symbol="configureDisciplines"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="55" pc="268439519" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="56" pc="268439529" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="57" pc="268439546" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="58" pc="268439563" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="59" pc="268439583" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="61" pc="268439610" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="62" pc="268439630" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="66" pc="268439664" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="67" pc="268439684" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="69" pc="268439711" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="70" pc="268439731" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="73" pc="268439762" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="75" pc="268439792" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="76" pc="268439811" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="77" pc="268439828" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="78" pc="268439841" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="80" pc="268439916" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="81" pc="268439943" symbol="nextDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="86" pc="268439962" symbol="nextLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="87" pc="268439982" symbol="nextLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="89" pc="268440009" symbol="nextLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="90" pc="268440029" symbol="nextLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\TriData.mc" lineNum="92" pc="268440060" symbol="nextLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="23" pc="268440090" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="24" pc="268440117" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="25" pc="268440152" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="26" pc="268440174" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="27" pc="268440191" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="28" pc="268440204" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="29" pc="268440222" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="33" pc="268440244" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="34" pc="268440262" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="40" pc="268440281" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="45" pc="268440287" symbol="onTap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="50" pc="268440293" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="55" pc="268440299" symbol="onHold"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="60" pc="268440305" symbol="onRelease"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="77" pc="268440312" symbol="recordingtimercallback"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="85" pc="268440331" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="87" pc="268440344" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="88" pc="268440378" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="101" pc="268440425" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="102" pc="268440461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="104" pc="268440473" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="105" pc="268440485" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="106" pc="268440517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="107" pc="268440531" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="108" pc="268440545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="109" pc="268440559" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="116" pc="268440576" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="117" pc="268440586" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="118" pc="268440586" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="120" pc="268440599" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="125" pc="268440627" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="141" pc="268440649" symbol="drawGPS"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="142" pc="268440666" symbol="drawGPS"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="144" pc="268440716" symbol="drawGPS"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="145" pc="268440759" symbol="drawGPS"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="149" pc="268440800" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="150" pc="268440825" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="152" pc="268440835" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="155" pc="268440842" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="156" pc="268440882" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="157" pc="268440923" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="159" pc="268440936" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="160" pc="268440976" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="161" pc="268441017" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="163" pc="268441030" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="164" pc="268441070" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="165" pc="268441111" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="167" pc="268441124" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="168" pc="268441164" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="169" pc="268441205" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="171" pc="268441218" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="172" pc="268441258" symbol="drawSegments"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="176" pc="268441308" symbol="getSegmentColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="177" pc="268441328" symbol="getSegmentColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="179" pc="268441364" symbol="getSegmentColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="181" pc="268441380" symbol="getSegmentColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="185" pc="268441396" symbol="drawTitleBar"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="187" pc="268441440" symbol="drawTitleBar"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="189" pc="268441497" symbol="drawTitleBar"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="190" pc="268441533" symbol="drawTitleBar"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="191" pc="268441584" symbol="drawTitleBar"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="195" pc="268441664" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="199" pc="268441671" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="200" pc="268441724" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="202" pc="268441765" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="203" pc="268441814" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="205" pc="268441840" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="206" pc="268441857" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="207" pc="268441904" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="208" pc="268441948" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="211" pc="268442042" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="214" pc="268442136" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="215" pc="268442148" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="216" pc="268442186" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="219" pc="268442274" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="222" pc="268442324" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="226" pc="268442357" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="227" pc="268442393" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="228" pc="268442495" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="229" pc="268442531" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="230" pc="268442594" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="231" pc="268442622" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="232" pc="268442658" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="238" pc="268442693" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="240" pc="268442748" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="241" pc="268442755" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="242" pc="268442791" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="244" pc="268442851" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="245" pc="268442887" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="246" pc="268442935" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="247" pc="268442971" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="249" pc="268443028" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="250" pc="268443056" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="251" pc="268443092" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="252" pc="268443124" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="253" pc="268443134" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="258" pc="268443140" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="259" pc="268443157" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="260" pc="268443164" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="261" pc="268443171" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="262" pc="268443182" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="263" pc="268443192" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="265" pc="268443202" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="266" pc="268443222" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="267" pc="268443235" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="268" pc="268443248" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="269" pc="268443261" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="271" pc="268443280" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="272" pc="268443325" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="273" pc="268443344" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="274" pc="268443363" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="275" pc="268443388" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="279" pc="268443425" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="280" pc="268443460" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="281" pc="268443508" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="282" pc="268443516" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="283" pc="268443534" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="284" pc="268443586" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="285" pc="268443611" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="286" pc="268443630" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="287" pc="268443652" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="289" pc="268443727" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="290" pc="268443737" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="293" pc="268443750" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="294" pc="268443777" symbol="calculateLapPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="300" pc="268443789" symbol="changeReset"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="301" pc="268443806" symbol="changeReset"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="302" pc="268443828" symbol="changeReset"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="303" pc="268443845" symbol="changeReset"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="304" pc="268443858" symbol="changeReset"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="319" pc="268443881" symbol="laptimercallback"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="323" pc="268443900" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="324" pc="268443934" symbol="onLayout"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="328" pc="268443978" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="329" pc="268444014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="330" pc="268444026" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="331" pc="268444062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="332" pc="268444152" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="333" pc="268444286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="334" pc="268444303" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\RecordingView.mc" lineNum="337" pc="268444328" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="12" pc="268444360" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="13" pc="268444482" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="14" pc="268444482" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="16" pc="268444499" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="17" pc="268444507" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="18" pc="268444552" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="19" pc="268444700" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="20" pc="268444767" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="21" pc="268444791" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="24" pc="268444942" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="27" pc="268445090" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="28" pc="268445103" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="29" pc="268445110" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="30" pc="268445152" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="34" pc="268445197" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="38" pc="268445254" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="39" pc="268445290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="40" pc="268445302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="44" pc="268445325" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="45" pc="268445365" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="46" pc="268445368" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="48" pc="268445375" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="49" pc="268445382" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="50" pc="268445390" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="51" pc="268445399" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="53" pc="268445408" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="54" pc="268445456" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="55" pc="268445463" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="56" pc="268445489" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="59" pc="268445527" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="62" pc="268445533" symbol="splitStoredDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="69" pc="268445539" symbol="onCancel"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="73" pc="268445570" symbol="onAccept"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="75" pc="268445642" symbol="onAccept"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Pickers\\DistancePicker.mc" lineNum="77" pc="268445683" symbol="onAccept"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="13" pc="268445715" symbol="msToTime"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="14" pc="268445731" symbol="msToTime"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="15" pc="268445747" symbol="msToTime"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="17" pc="268445757" symbol="msToTime"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="21" pc="268445845" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="22" pc="268445861" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="23" pc="268445877" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="24" pc="268445893" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="25" pc="268445903" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="27" pc="268445910" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="28" pc="268445921" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="31" pc="268446010" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="34" pc="268446110" symbol="msToTimeWithDecimals"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="38" pc="268446116" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="39" pc="268446116" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="40" pc="268446116" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="41" pc="268446116" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="42" pc="268446116" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="44" pc="268446133" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="45" pc="268446140" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="46" pc="268446147" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="47" pc="268446171" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="48" pc="268446178" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="50" pc="268446192" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="51" pc="268446199" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="54" pc="268446210" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="55" pc="268446231" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="56" pc="268446245" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="57" pc="268446252" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="58" pc="268446262" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="59" pc="268446289" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="62" pc="268446305" symbol="convertSpeedToSwim"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="66" pc="268446379" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="67" pc="268446379" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="68" pc="268446379" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="69" pc="268446379" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="71" pc="268446396" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="72" pc="268446403" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="73" pc="268446427" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="74" pc="268446434" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="76" pc="268446448" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="77" pc="268446455" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="79" pc="268446466" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="80" pc="268446487" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="82" pc="268446503" symbol="convertSpeedToBike"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="86" pc="268446567" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="87" pc="268446567" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="88" pc="268446567" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="89" pc="268446567" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="90" pc="268446567" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="92" pc="268446584" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="93" pc="268446591" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="94" pc="268446598" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="95" pc="268446622" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="96" pc="268446629" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="98" pc="268446643" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="99" pc="268446650" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="102" pc="268446661" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="103" pc="268446682" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="104" pc="268446696" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="105" pc="268446703" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="106" pc="268446713" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="107" pc="268446740" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="110" pc="268446756" symbol="convertSpeedToPace"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="114" pc="268446830" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="116" pc="268446830" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="117" pc="268446837" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="119" pc="268446847" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="120" pc="268446864" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="121" pc="268446888" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="123" pc="268446901" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="128" pc="268446911" symbol="convertDistance"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="132" pc="268446965" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="134" pc="268446965" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="135" pc="268446972" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="138" pc="268446982" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="139" pc="268446999" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="140" pc="268447023" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="142" pc="268447036" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="145" pc="268447046" symbol="convertToMeters"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="151" pc="268447052" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="152" pc="268447052" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="154" pc="268447071" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="155" pc="268447084" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="156" pc="268447092" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="157" pc="268447124" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="159" pc="268447133" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="167" pc="268447382" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="175" pc="268447626" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="185" pc="268447928" symbol="drawChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="191" pc="268447945" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="192" pc="268447945" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="194" pc="268447964" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="195" pc="268447977" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="196" pc="268447985" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="197" pc="268448017" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="199" pc="268448026" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="207" pc="268448275" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="215" pc="268448519" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="225" pc="268448821" symbol="drawReverseChevron"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="229" pc="268448838" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="230" pc="268448838" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="231" pc="268448845" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="233" pc="268448865" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="236" pc="268448869" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="237" pc="268448893" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="239" pc="268448933" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Functions.mc" lineNum="241" pc="268448949" symbol="getGPSQualityColour"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="16" pc="268448965" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="17" pc="268449012" symbol="onKey"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="36" pc="268449040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="37" pc="268449076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="39" pc="268449088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="41" pc="268449143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="42" pc="268449179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="43" pc="268449278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="45" pc="268449355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="47" pc="268449441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="59" pc="268449464" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="62" pc="268449495" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="63" pc="268449550" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="64" pc="268449627" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="65" pc="268449682" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="66" pc="268449759" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="67" pc="268449814" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="68" pc="268449891" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="69" pc="268449946" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="70" pc="268450023" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="71" pc="268450078" symbol="drawDataFields"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="76" pc="268450158" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="77" pc="268450194" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="78" pc="268450239" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="79" pc="268450265" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="80" pc="268450322" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="81" pc="268450350" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="82" pc="268450386" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="83" pc="268450418" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\FinishView.mc" lineNum="84" pc="268450428" symbol="drawDataField"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="12" pc="268450435" symbol="getIndex"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="13" pc="268450457" symbol="getIndex"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="17" pc="268450463" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="18" pc="268450473" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="19" pc="268450483" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="21" pc="268450493" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="22" pc="268450500" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="23" pc="268450524" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="26" pc="268450551" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="27" pc="268450564" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="30" pc="268450587" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="31" pc="268450600" symbol="initialize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="36" pc="268450619" symbol="getDrawable"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="40" pc="268450769" symbol="getValue"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Factories\\NumberFactory.mc" lineNum="44" pc="268450793" symbol="getSize"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="45" pc="268450829" symbol="initaliseDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="46" pc="268450839" symbol="initaliseDiscipline"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="50" pc="268450876" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="51" pc="268450979" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="52" pc="268450997" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="53" pc="268451020" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="54" pc="268451095" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="55" pc="268451199" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="57" pc="268451212" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="58" pc="268451216" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="59" pc="268451216" symbol="onBegin"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="67" pc="268451252" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="68" pc="268451275" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="69" pc="268451350" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="71" pc="268451386" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="72" pc="268451390" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="73" pc="268451394" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="74" pc="268451394" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="78" pc="268451421" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="79" pc="268451421" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="84" pc="268451448" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="85" pc="268451457" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="88" pc="268451479" symbol="onEnd"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="92" pc="268451491" symbol="addRunLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="93" pc="268451527" symbol="addRunLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="94" pc="268451531" symbol="addRunLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="100" pc="268451552" symbol="addRunLap"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\Discipline.mc" lineNum="107" pc="268451561" symbol="getStageName"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="14" pc="268451583" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="15" pc="268451594" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="16" pc="268451678" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="18" pc="268451708" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="19" pc="268451792" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="22" pc="268451811" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="23" pc="268451895" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="32" pc="268451915" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="33" pc="268451926" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="34" pc="268451961" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="37" pc="268451991" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="38" pc="268452026" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="41" pc="268452045" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="42" pc="268452080" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="51" pc="268452100" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="52" pc="268452111" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="53" pc="268452195" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="56" pc="268452225" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="57" pc="268452309" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="60" pc="268452328" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="69" pc="268452404" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="70" pc="268452415" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="71" pc="268452447" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="74" pc="268452466" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="75" pc="268452498" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="83" pc="268452518" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="84" pc="268452529" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="85" pc="268452561" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="88" pc="268452580" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="89" pc="268452612" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="98" pc="268452632" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="99" pc="268452643" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="100" pc="268452678" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="103" pc="268452708" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="104" pc="268452743" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="107" pc="268452762" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Lucas\\workspace\\TriathlonDuathlonAquathlon\\source\\ConfigureView.mc" lineNum="108" pc="268452797" symbol="onMenuItem"/>
+<entry filename="Rez" lineNum="36" pc="268452817" symbol="initialize"/>
+<entry filename="Rez" lineNum="37" pc="268452835" symbol="initialize"/>
+<entry filename="Rez" lineNum="37" pc="268452888" symbol="initialize"/>
+<entry filename="Rez" lineNum="38" pc="268452910" symbol="initialize"/>
+<entry filename="Rez" lineNum="39" pc="268452932" symbol="initialize"/>
+<entry filename="Rez" lineNum="49" pc="268452957" symbol="initialize"/>
+<entry filename="Rez" lineNum="50" pc="268452975" symbol="initialize"/>
+<entry filename="Rez" lineNum="50" pc="268453028" symbol="initialize"/>
+<entry filename="Rez" lineNum="51" pc="268453050" symbol="initialize"/>
+<entry filename="Rez" lineNum="52" pc="268453072" symbol="initialize"/>
+<entry filename="Rez" lineNum="62" pc="268453097" symbol="initialize"/>
+<entry filename="Rez" lineNum="63" pc="268453115" symbol="initialize"/>
+<entry filename="Rez" lineNum="63" pc="268453168" symbol="initialize"/>
+<entry filename="Rez" lineNum="64" pc="268453190" symbol="initialize"/>
+<entry filename="Rez" lineNum="65" pc="268453212" symbol="initialize"/>
+<entry filename="Rez" lineNum="75" pc="268453237" symbol="initialize"/>
+<entry filename="Rez" lineNum="76" pc="268453255" symbol="initialize"/>
+<entry filename="Rez" lineNum="76" pc="268453308" symbol="initialize"/>
+<entry filename="Rez" lineNum="77" pc="268453330" symbol="initialize"/>
+<entry filename="Rez" lineNum="87" pc="268453355" symbol="initialize"/>
+<entry filename="Rez" lineNum="88" pc="268453373" symbol="initialize"/>
+<entry filename="Rez" lineNum="88" pc="268453426" symbol="initialize"/>
+<entry filename="Rez" lineNum="89" pc="268453448" symbol="initialize"/>
+<entry filename="Rez" lineNum="90" pc="268453470" symbol="initialize"/>
+<entry filename="Rez" lineNum="100" pc="268453495" symbol="initialize"/>
+<entry filename="Rez" lineNum="101" pc="268453513" symbol="initialize"/>
+<entry filename="Rez" lineNum="101" pc="268453566" symbol="initialize"/>
+<entry filename="Rez" lineNum="102" pc="268453588" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389101" method="true" symbol="onSwipe"/>
+<entry field="true" id="19" symbol="LapTime"/>
+<entry field="true" id="60" object="true" symbol="RunSettings"/>
+<entry field="true" id="82" symbol="recordingtimer"/>
+<entry field="true" id="55" symbol="StartIcon"/>
+<entry id="46" method="true" symbol="configureDisciplines"/>
+<entry id="130" method="true" symbol="initaliseDiscipline"/>
+<entry field="true" id="71" symbol="errorMessage"/>
+<entry field="true" id="51" symbol="SwimIcon"/>
+<entry field="true" id="128" symbol="currentStage"/>
+<entry id="102" method="true" symbol="getIndex"/>
+<entry field="true" id="24" symbol="change"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="66" symbol="distancePickerTitle"/>
+<entry id="48" method="true" symbol="nextLap"/>
+<entry field="true" id="59" object="true" symbol="ModeMenu"/>
+<entry field="true" id="68" symbol="Duathlon"/>
+<entry field="true" id="74" symbol="AutoLapDistance"/>
+<entry id="33" object="true" symbol="FinishView"/>
+<entry field="true" id="86" symbol="lapInitTime"/>
+<entry id="91" method="true" symbol="getSegmentColour"/>
+<entry field="true" id="84" symbol="string_HR"/>
+<entry id="8389642" symbol="title"/>
+<entry id="8389629" method="true" symbol="getValue"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="67" symbol="Triathlon"/>
+<entry id="101" symbol="mFormatString"/>
+<entry field="true" id="80" symbol="kilometers"/>
+<entry field="true" id="54" symbol="TransIcon"/>
+<entry field="true" id="110" symbol="refreshtimer"/>
+<entry field="true" id="108" symbol="string_distance"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="16" symbol="vibrateData"/>
+<entry field="true" id="58" object="true" symbol="MainMenu"/>
+<entry id="13" object="true" symbol="TriathlonViewInputDelegate"/>
+<entry field="true" id="17" symbol="vibrateData1"/>
+<entry field="true" id="129" symbol="currentIcon"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry field="true" id="28" symbol="MINUTE_FORMAT"/>
+<entry id="8388764" method="true" symbol="format"/>
+<entry id="121" method="true" symbol="convertDistance"/>
+<entry field="true" id="126" symbol="endTime"/>
+<entry id="30" object="true" symbol="DistancePickerDelegate"/>
+<entry field="true" id="8388731" symbol="startTime"/>
+<entry id="14" object="true" symbol="TriathlonView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="103" symbol="laptimer"/>
+<entry field="true" id="96" symbol="resetChange"/>
+<entry id="8389128" symbol="mFont"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="52" symbol="CycleIcon"/>
+<entry field="true" id="20" symbol="elapsedLapTimeP"/>
+<entry id="125" method="true" symbol="getGPSQualityColour"/>
+<entry field="true" id="70" symbol="Mode"/>
+<entry id="47" method="true" symbol="nextDiscipline"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="25" object="true" symbol="RecordingViewInputDelegate"/>
+<entry id="100" symbol="mIncrement"/>
+<entry id="133" method="true" symbol="addRunLap"/>
+<entry field="true" id="137" symbol="stageSports"/>
+<entry field="true" id="69" symbol="MyStringPrompt"/>
+<entry id="113" method="true" symbol="drawIntro"/>
+<entry id="12" object="true" symbol="CDS"/>
+<entry id="94" method="true" symbol="drawDataField"/>
+<entry field="true" id="111" symbol="blinkOn"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8389626" method="true" symbol="onAccept"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="88" method="true" symbol="onSnsr"/>
+<entry field="true" id="73" symbol="AppName"/>
+<entry id="134" method="true" symbol="onTick"/>
+<entry field="true" id="107" symbol="string_autolap"/>
+<entry id="112" method="true" symbol="timercallback"/>
+<entry id="29" object="true" symbol="DistancePicker"/>
+<entry id="141" symbol="subsport"/>
+<entry field="true" id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry field="true" id="64" symbol="LapPace"/>
+<entry field="true" id="76" symbol="distanceSeparator"/>
+<entry id="15" object="true" symbol="TriathlonApp"/>
+<entry field="true" id="136" symbol="stageNames"/>
+<entry field="true" id="53" symbol="RunIcon"/>
+<entry id="114" method="true" symbol="drawPrepare"/>
+<entry id="144" symbol="item_3"/>
+<entry id="143" symbol="item_2"/>
+<entry id="142" symbol="item_1"/>
+<entry id="117" method="true" symbol="msToTimeWithDecimals"/>
+<entry id="8389108" method="true" symbol="onResponse"/>
+<entry field="true" id="57" symbol="LauncherIcon"/>
+<entry field="true" id="109" symbol="string_changeMode"/>
+<entry id="35" object="true" symbol="Discipline"/>
+<entry field="true" id="62" object="true" symbol="PaceField"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="122" method="true" symbol="convertToMeters"/>
+<entry id="87" method="true" symbol="recordingtimercallback"/>
+<entry field="true" id="43" symbol="currentDiscipline"/>
+<entry id="31" module="true" symbol="Functions"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="79" symbol="AveragePace"/>
+<entry field="true" id="21" symbol="elapsedLapDistanceP"/>
+<entry field="true" id="77" symbol="CurrentPace"/>
+<entry id="41" object="true" symbol="PaceFieldMenuInputDelegate"/>
+<entry id="123" method="true" symbol="drawChevron"/>
+<entry id="124" method="true" symbol="drawReverseChevron"/>
+<entry id="99" symbol="mStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="34" object="true" symbol="NumberFactory"/>
+<entry field="true" id="42" symbol="disciplines"/>
+<entry field="true" id="106" symbol="string_type"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="45" symbol="settings"/>
+<entry id="32" object="true" symbol="FinishViewInputDelegate"/>
+<entry field="true" id="11" symbol="testString"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="118" method="true" symbol="convertSpeedToSwim"/>
+<entry field="true" id="44" symbol="ChangedDiscipline"/>
+<entry id="95" method="true" symbol="calculateLapPace"/>
+<entry id="131" method="true" symbol="onBegin"/>
+<entry field="true" id="22" symbol="LapCounter"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="104" symbol="counter"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="81" symbol="AutoLapMode"/>
+<entry id="120" method="true" symbol="convertSpeedToPace"/>
+<entry id="8389347" symbol="color"/>
+<entry id="135" method="true" symbol="getStageName"/>
+<entry id="18" module="true" symbol="TriData"/>
+<entry id="98" symbol="mStart"/>
+<entry id="40" object="true" symbol="AutoLapMenuInputDelegate"/>
+<entry id="27" object="true" symbol="LapView"/>
+<entry id="39" object="true" symbol="ChangeModeInputDelegate"/>
+<entry id="26" object="true" symbol="RecordingView"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="75" symbol="miles"/>
+<entry id="140" method="true" symbol="onPosition"/>
+<entry id="36" object="true" symbol="MainMenuInputDelegate"/>
+<entry id="37" object="true" symbol="ModeMenuInputDelegate"/>
+<entry field="true" id="127" symbol="disciplineSession"/>
+<entry field="true" id="138" symbol="stageSubSports"/>
+<entry id="50" module="true" symbol="Layouts"/>
+<entry id="97" method="true" symbol="changeReset"/>
+<entry id="38" object="true" symbol="RunSettingsInputDelegate"/>
+<entry id="89" method="true" symbol="drawGPS"/>
+<entry id="116" method="true" symbol="msToTime"/>
+<entry id="8389099" method="true" symbol="onHold"/>
+<entry id="8389644" symbol="defaults"/>
+<entry id="8389628" method="true" symbol="getDrawable"/>
+<entry id="115" method="true" symbol="splitStoredDistance"/>
+<entry id="8389346" symbol="text"/>
+<entry id="119" method="true" symbol="convertSpeedToBike"/>
+<entry id="49" module="true" symbol="Menus"/>
+<entry field="true" id="85" symbol="lapInitDistance"/>
+<entry id="132" method="true" symbol="onEnd"/>
+<entry field="true" id="23" symbol="lapPace"/>
+<entry id="92" method="true" symbol="drawTitleBar"/>
+<entry field="true" id="65" symbol="RunPaceField"/>
+<entry id="8389643" symbol="pattern"/>
+<entry id="105" method="true" symbol="laptimercallback"/>
+<entry field="true" id="63" object="true" symbol="ChangeMode"/>
+<entry id="93" method="true" symbol="drawDataFields"/>
+<entry field="true" id="139" symbol="stageIcons"/>
+<entry field="true" id="61" object="true" symbol="AutoLap"/>
+<entry id="90" method="true" symbol="drawSegments"/>
+<entry id="8389100" method="true" symbol="onRelease"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389630" method="true" symbol="getSize"/>
+<entry field="true" id="83" symbol="i"/>
+<entry field="true" id="72" symbol="Aquathlon"/>
+<entry id="8389541" method="true" symbol="onCancel"/>
+<entry field="true" id="56" symbol="FinishIcon"/>
+<entry field="true" id="78" symbol="TwoTimesPressLap"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436019" name="recview" stackId="5" startPc="268435757"/>
+<entry endPc="268436019" name="inpdelegate" stackId="6" startPc="268435757"/>
+<entry endPc="268436156" name="MainMenu" stackId="7" startPc="268436049"/>
+<entry endPc="268436283" name="cdS" stackId="8" startPc="268435598"/>
+<entry endPc="268436283" name="gpsIsOkay" stackId="4" startPc="268435598"/>
+<entry endPc="268436283" name="gpsinfos" stackId="3" startPc="268435598"/>
+<entry endPc="268436283" name="keynum" stackId="2" startPc="268435598"/>
+<entry endPc="268438723" name="boxh" stackId="7" startPc="268438236"/>
+<entry endPc="268438726" name="gpsinfo" stackId="2" startPc="268436435"/>
+<entry endPc="268438726" name="curx" stackId="6" startPc="268436435"/>
+<entry endPc="268438726" name="xfwidth" stackId="5" startPc="268436435"/>
+<entry endPc="268438726" name="segwidth" stackId="4" startPc="268436435"/>
+<entry endPc="268438726" name="gpsIsOkay" stackId="3" startPc="268436435"/>
+<entry endPc="268438907" name="sensorsenabled" stackId="2" startPc="268438730"/>
+<entry endPc="268438907" name="trimode" stackId="1" startPc="268438730"/>
+<entry endPc="268439032" name="view" stackId="1" startPc="268438957"/>
+<entry endPc="268439032" name="dele" stackId="2" startPc="268438957"/>
+<entry endPc="268440640" name="HR" stackId="2" startPc="268440576"/>
+<entry endPc="268440640" name="bucket" stackId="3" startPc="268440576"/>
+<entry endPc="268440797" name="gpsinfo" stackId="2" startPc="268440649"/>
+<entry endPc="268440797" name="gpsIsOkay" stackId="3" startPc="268440649"/>
+<entry endPc="268441305" name="curx" stackId="4" startPc="268440800"/>
+<entry endPc="268441305" name="xfwidth" stackId="3" startPc="268440800"/>
+<entry endPc="268441305" name="segwidth" stackId="2" startPc="268440800"/>
+<entry endPc="268441661" name="elapsedTime" stackId="2" startPc="268441396"/>
+<entry endPc="268442357" name="cursession" stackId="4" startPc="268441840"/>
+<entry endPc="268442690" name="elapsedTime" stackId="3" startPc="268441664"/>
+<entry endPc="268442690" name="y" stackId="2" startPc="268441664"/>
+<entry endPc="268443137" name="smalloffset" stackId="5" startPc="268442693"/>
+<entry endPc="268443747" name="autolapdistance" stackId="7" startPc="268443460"/>
+<entry endPc="268443786" name="elapsedLapTime" stackId="2" startPc="268443140"/>
+<entry endPc="268443786" name="elapsedTime" stackId="5" startPc="268443140"/>
+<entry endPc="268443786" name="elapsedDistance" stackId="6" startPc="268443140"/>
+<entry endPc="268443786" name="elapsedLapDistance" stackId="3" startPc="268443140"/>
+<entry endPc="268443786" name="lapVel" stackId="4" startPc="268443140"/>
+<entry endPc="268443786" name="cursession" stackId="1" startPc="268443140"/>
+<entry endPc="268445251" name="settings" stackId="3" startPc="268444360"/>
+<entry endPc="268445251" name="factories" stackId="2" startPc="268444360"/>
+<entry endPc="268445251" name="defaults" stackId="4" startPc="268444360"/>
+<entry endPc="268445251" name="title" stackId="1" startPc="268444360"/>
+<entry endPc="268445536" name="defaults" stackId="2" startPc="268445325"/>
+<entry endPc="268445536" name="separatorIndex" stackId="3" startPc="268445325"/>
+<entry endPc="268445536" name="storedValue" stackId="1" startPc="268445325"/>
+<entry endPc="268445711" name="distance" stackId="2" startPc="268445570"/>
+<entry endPc="268445842" name="hours" stackId="4" startPc="268445715"/>
+<entry endPc="268445842" name="minutes" stackId="3" startPc="268445715"/>
+<entry endPc="268445842" name="seconds" stackId="2" startPc="268445715"/>
+<entry endPc="268446113" name="hours" stackId="5" startPc="268445845"/>
+<entry endPc="268446113" name="decimals" stackId="2" startPc="268445845"/>
+<entry endPc="268446113" name="string" stackId="6" startPc="268445845"/>
+<entry endPc="268446113" name="minutes" stackId="4" startPc="268445845"/>
+<entry endPc="268446113" name="seconds" stackId="3" startPc="268445845"/>
+<entry endPc="268446302" name="secpermetre" stackId="7" startPc="268446231"/>
+<entry endPc="268446376" name="conversionvalue" stackId="5" startPc="268446116"/>
+<entry endPc="268446376" name="result_per" stackId="4" startPc="268446116"/>
+<entry endPc="268446376" name="result_min" stackId="2" startPc="268446116"/>
+<entry endPc="268446376" name="settings" stackId="6" startPc="268446116"/>
+<entry endPc="268446376" name="result_sec" stackId="3" startPc="268446116"/>
+<entry endPc="268446564" name="conversionvalue" stackId="2" startPc="268446379"/>
+<entry endPc="268446564" name="settings" stackId="5" startPc="268446379"/>
+<entry endPc="268446564" name="result_format" stackId="4" startPc="268446379"/>
+<entry endPc="268446564" name="result_speed" stackId="3" startPc="268446379"/>
+<entry endPc="268446753" name="secpermetre" stackId="7" startPc="268446682"/>
+<entry endPc="268446827" name="conversionvalue" stackId="5" startPc="268446567"/>
+<entry endPc="268446827" name="result_per" stackId="4" startPc="268446567"/>
+<entry endPc="268446827" name="result_min" stackId="2" startPc="268446567"/>
+<entry endPc="268446827" name="settings" stackId="6" startPc="268446567"/>
+<entry endPc="268446827" name="result_sec" stackId="3" startPc="268446567"/>
+<entry endPc="268446911" name="settings" stackId="3" startPc="268446847"/>
+<entry endPc="268446962" name="result" stackId="2" startPc="268446830"/>
+<entry endPc="268447046" name="settings" stackId="3" startPc="268446982"/>
+<entry endPc="268447049" name="meters" stackId="2" startPc="268446965"/>
+<entry endPc="268447942" name="segwidth" stackId="9" startPc="268447052"/>
+<entry endPc="268447942" name="poly" stackId="8" startPc="268447052"/>
+<entry endPc="268448835" name="segwidth" stackId="9" startPc="268447945"/>
+<entry endPc="268448835" name="poly" stackId="8" startPc="268447945"/>
+<entry endPc="268448962" name="gpsnfo" stackId="2" startPc="268448838"/>
+<entry endPc="268449030" name="keynum" stackId="2" startPc="268448965"/>
+<entry endPc="268449455" name="elapsedTime" stackId="2" startPc="268449040"/>
+<entry endPc="268450155" name="elapsedTime" stackId="3" startPc="268449464"/>
+<entry endPc="268450155" name="y" stackId="2" startPc="268449464"/>
+<entry endPc="268450460" name="index" stackId="2" startPc="268450435"/>
+<entry endPc="268451243" name="starttrue" stackId="2" startPc="268451212"/>
+<entry endPc="268451249" name="logtxt" stackId="1" startPc="268450876"/>
+<entry endPc="268451473" name="savetrue" stackId="2" startPc="268451386"/>
+<entry endPc="268451473" name="stoptrue" stackId="1" startPc="268451386"/>
+<entry endPc="268451549" name="addedlap" stackId="1" startPc="268451527"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onResponse" parent="CDS">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="TriathlonViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="timercallback" parent="TriathlonView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="TriathlonView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="TriathlonView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="TriathlonView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="TriathlonView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="TriathlonView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawIntro" parent="TriathlonView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawPrepare" parent="TriathlonView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="TriathlonApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="TriathlonApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="TriathlonApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onPosition" parent="TriathlonApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="configureDisciplines" parent="TriData">
+<param id="triMode"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="nextDiscipline" parent="TriData">
+<documentation/>
+</functionEntry>
+<functionEntry name="nextLap" parent="TriData">
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="RecordingViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="RecordingViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSwipe" parent="RecordingViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHold" parent="RecordingViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onRelease" parent="RecordingViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="recordingtimercallback" parent="RecordingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="RecordingView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="RecordingView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="RecordingView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSnsr" parent="RecordingView">
+<param id="sensor_info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="RecordingView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="RecordingView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawGPS" parent="RecordingView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSegments" parent="RecordingView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getSegmentColour" parent="RecordingView">
+<param id="segmentNumber"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawTitleBar" parent="RecordingView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDataFields" parent="RecordingView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDataField" parent="RecordingView">
+<param id="dc"/>
+<param id="label"/>
+<param id="value"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calculateLapPace" parent="RecordingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="changeReset" parent="RecordingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="laptimercallback" parent="LapView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="LapView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="LapView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DistancePicker">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DistancePicker">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="splitStoredDistance" parent="DistancePicker">
+<documentation/>
+</functionEntry>
+<functionEntry name="onCancel" parent="DistancePickerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onAccept" parent="DistancePickerDelegate">
+<param id="values"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="msToTime" parent="Functions">
+<param id="ms"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="msToTimeWithDecimals" parent="Functions">
+<param id="ms"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertSpeedToSwim" parent="Functions">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertSpeedToBike" parent="Functions">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertSpeedToPace" parent="Functions">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertDistance" parent="Functions">
+<param id="metres"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertToMeters" parent="Functions">
+<param id="distance"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawChevron" parent="Functions">
+<param id="dc"/>
+<param id="leftX"/>
+<param id="rightX"/>
+<param id="centreY"/>
+<param id="chevronHeight"/>
+<param id="isFirst"/>
+<param id="isLast"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawReverseChevron" parent="Functions">
+<param id="dc"/>
+<param id="leftX"/>
+<param id="rightX"/>
+<param id="centreY"/>
+<param id="chevronHeight"/>
+<param id="isFirst"/>
+<param id="isLast"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getGPSQualityColour" parent="Functions">
+<param id="gpsInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="FinishViewInputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="FinishView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="FinishView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="FinishView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="FinishView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="FinishView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawDataFields" parent="FinishView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDataField" parent="FinishView">
+<param id="dc"/>
+<param id="label"/>
+<param id="value"/>
+<param id="y"/>
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getIndex" parent="NumberFactory">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NumberFactory">
+<param id="start"/>
+<param id="stop"/>
+<param id="increment"/>
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getDrawable" parent="NumberFactory">
+<param id="index"/>
+<param id="selected"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getValue" parent="NumberFactory">
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getSize" parent="NumberFactory">
+<documentation/>
+</functionEntry>
+<functionEntry name="initaliseDiscipline" parent="Discipline">
+<param id="stage"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onBegin" parent="Discipline">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnd" parent="Discipline">
+<documentation/>
+</functionEntry>
+<functionEntry name="addRunLap" parent="Discipline">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTick" parent="Discipline">
+<documentation/>
+</functionEntry>
+<functionEntry name="getStageName" parent="Discipline">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="MainMenuInputDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="ModeMenuInputDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="RunSettingsInputDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="ChangeModeInputDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="AutoLapMenuInputDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="PaceFieldMenuInputDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ModeMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="RunSettings">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AutoLap">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PaceField">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ChangeMode">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

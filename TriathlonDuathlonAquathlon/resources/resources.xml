@@ -1,0 +1,117 @@
+<resources>
+	<string id="AppName">TriathlonDuathlon</string>
+	<string id="Triathlon">Triathlon</string>
+	<string id="Duathlon">Duathlon</string>
+	<string id="Aquathlon">Aquathlon</string>
+	<string id="Mode">Mode</string>
+	<string id="MyStringPrompt">OK</string>
+	<string id="ModeMenu">Mode Menu</string>
+	<string id="MainMenu">Main Menu</string>
+	<string id="AutoLapMode">Run Auto Lap</string>
+	<string id="AutoLapDistance">Lap Distance (km or mi depending on the watch settings)</string>
+	<string id="RunSettings">Run Settings</string>
+	<string id="AutoLap">Auto Lap</string>
+	<string id="PaceField">Pace Field</string>
+	<string id="RunPaceField">Run Pace Field</string>
+	<string id="CurrentPace">Current Pace</string>
+	<string id="AveragePace">Average Pace</string>
+	<string id="LapPace">Lap Pace</string>
+	<string id="TwoTimesPressLap">Press Lap Button 2 times to change discipline</string>
+	<string id="ChangeMode">Change Discipline Mode</string>
+	<!-- Distance Picker -->
+	<string id="distancePickerTitle">Choose distance</string>
+	<string id="kilometers">km</string>
+	<string id="miles">mi</string>
+	<string id="distanceSeparator">.</string>
+	<string id="errorMessage">Lap too long</string>
+
+	<bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+	<bitmap id="SwimIcon" filename="images/swim.png" />
+	<bitmap id="CycleIcon" filename="images/cycle.png" />
+	<bitmap id="RunIcon" filename="images/run.png" />
+	<bitmap id="TransIcon" filename="images/transistion.png" />
+	<bitmap id="StartIcon" filename="images/start.png" />
+	<bitmap id="FinishIcon" filename="images/finish.png" />
+
+	<properties>
+		<property id="TriathlonMode" type="number">0</property>
+		<property id="AutolapMode" type="boolean">false</property>
+		<property id="AutolapDistance" type="float">1.0</property>
+		<property id="PaceField" type="number">0</property>
+		<property id="TwoTimesPressLap" type="boolean">false</property>
+	</properties>
+
+	<settings>
+
+		<setting propertyKey="@Properties.TriathlonMode" title="@Strings.Mode" prompt="@Strings.MyStringPrompt">
+			<settingConfig type="list">
+				<listEntry value="0">@Strings.Triathlon</listEntry>
+				<listEntry value="1">@Strings.Aquathlon</listEntry>
+				<listEntry value="2">@Strings.Duathlon</listEntry>
+			</settingConfig>
+		</setting>
+		
+		<setting propertyKey="@Properties.TwoTimesPressLap" title="@Strings.TwoTimesPressLap" prompt="@Strings.MyStringPrompt">
+			<settingConfig type="boolean" />
+    	</setting>
+		
+		<setting propertyKey="@Properties.AutolapMode" title="@Strings.AutoLapMode" prompt="@Strings.MyStringPrompt">
+			<settingConfig type="boolean" />
+    	</setting>
+    	
+    	<setting propertyKey="@Properties.AutolapDistance" title="@Strings.AutoLapDistance" prompt="@Strings.MyStringPrompt">
+			<settingConfig type="numeric" errorMessage="@Strings.errorMessage" max="10" />	
+    	</setting>
+    	
+    	<setting propertyKey="@Properties.PaceField" title="@Strings.RunPaceField" prompt="@Strings.MyStringPrompt">
+			<settingConfig type="list">
+				<listEntry value="0">@Strings.CurrentPace</listEntry>
+				<listEntry value="1">@Strings.AveragePace</listEntry>
+				<listEntry value="2">@Strings.LapPace</listEntry>
+			</settingConfig>
+		</setting>
+	
+	</settings>
+	
+	<menus>
+		<menu id="MainMenu" title="@Strings.MainMenu">
+    		<menu-item id="item_1">Mode</menu-item>
+    		<menu-item id="item_2">Run Settings</menu-item>
+    		<menu-item id="item_3">Change Discipline Mode</menu-item>
+		</menu>
+	
+		<menu id="ModeMenu" title="@Strings.ModeMenu">
+    		<menu-item id="item_1">Triathlon</menu-item>
+    		<menu-item id="item_2">Aquathlon</menu-item>
+    		<menu-item id="item_3">Duathlon</menu-item>
+		</menu>
+		
+		<menu id="RunSettings" title="@Strings.RunSettings">
+    		<menu-item id="item_1">Pace Field</menu-item>
+    		<menu-item id="item_2">Auto Lap</menu-item>
+    		<menu-item id="item_3">Lap Distance</menu-item>
+		</menu>
+		
+		<menu id="AutoLap" title="@Strings.AutoLap">
+    		<menu-item id="item_1">On</menu-item>
+    		<menu-item id="item_2">Off</menu-item>
+		</menu>
+		
+		<menu id="PaceField" title="@Strings.PaceField">
+    		<menu-item id="item_1">Current Pace</menu-item>
+    		<menu-item id="item_2">Average Pace</menu-item>
+    		<menu-item id="item_3">Lap Pace</menu-item>
+		</menu>
+		
+		<menu id="ChangeMode" title="@Strings.ChangeMode">
+    		<menu-item id="item_1">1 button press</menu-item>
+    		<menu-item id="item_2">2 button presses</menu-item>
+		</menu>
+		
+	</menus>
+	
+
+</resources>
+
+
+
